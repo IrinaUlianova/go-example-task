@@ -1,0 +1,13 @@
+[
+  {
+    "id": "id-1",
+    "text": "Выучить Реакт",
+    "completed": false
+  },
+  { "id": "id-2", "text": "Выучить Реакт Router", "completed": false },
+  {
+    "id": "id-2",
+    "text": "Выучить Redux",
+    "completed": false
+  }
+]
